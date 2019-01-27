@@ -1,5 +1,6 @@
-# csBooks-updates<p align="center" style="width: 200px;">
-    <img  src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/icons/png/512x512.png" width="256">
+# csBooks-updates
+<p align="center" style="width: 200px;">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/icons/png/512x512.png" width="256">
 </p>
 <p align="center">
   <b>csBooks - A Smart Book Manager</b>
