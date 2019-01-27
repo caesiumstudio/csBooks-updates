@@ -1,2 +1,53 @@
-# csBooks-updates
-csBooks - A Smart Book Manager Updates &amp; Releases
+# csBooks-updates<p align="center" style="width: 200px;">
+    <img  src="https://raw.githubusercontent.com/caesiumstudio/Books/master/assets/icons/png/512x512.png" width="256">
+</p>
+<p align="center">
+  <b>csBooks - A Smart Book Manager</b>
+</p>
+
+<p align="center">
+    <a href="https://github.com/sindresorhus/awesome-electron"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+
+</p>
+
+----
+
+## csBooks - A Smart Book Manager
+
+**csBooks** is a smart solution to manage all your pdf files. csBooks will automatically generate thumbnails for your books so that you can easily browse them and read them without problems. csBooks is focused on clean and beautiful interface with excellent user experience. csBooks supports PDF format of books and maintains the read status for them.
+
+## Installing
+
+### Ubuntu Software Center or Debian x86
+
+1. Download `csBooks.deb` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
+2. Run `sudo dpkg --install csBooks.deb` on the downloaded package.
+3. Launch csBooks using the installed `csBooks` command.
+
+> You can also use a software center app for opening the deb file. ;)
+
+### MacOS Users
+
+1. Download `csBooks.dmg` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
+2. Make it executable `sudo chmod a+x csBooks.dmg`
+3. Run `./csBooks.dmg`
+
+## Windows Users
+
+1. Download `csBooks.exe` and wait until the download is finished.
+2. Double click on `csBooks.exe` and follow the installer.
+
+## Screenshots  
+<div align="center">
+<h2>Light Mode Library View</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot3.png">
+<h2>Dark Mode</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot4.png">
+<h2>Icon Sizes - Small, Medium and Large</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot1.png">
+<h2>Search Files With Keywords</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
+</div>
+
+## Feature Suggestions
+To request any features, please send an email to caesiumstudio@outlook.com OR create a feature request on GitHub to keep track of it.
