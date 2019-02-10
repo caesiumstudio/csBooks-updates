@@ -46,13 +46,10 @@
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot4.png">
 <h2>PDF File Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot6.png">
-</div>
 <h2>EPUB File Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot5.png">
-</div>
 <h2>Search Files With Keywords</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
-</div>
 <h2>Icon Sizes - Small, Medium and Large</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot1.png">
 <h2>Search Files With Keywords</h2>
