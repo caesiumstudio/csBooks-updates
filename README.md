@@ -21,22 +21,21 @@
 
 ### Ubuntu Software Center or Debian x86
 
-1. Download `csBooks.deb` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
-2. Run `sudo dpkg --install csBooks.deb` on the downloaded package.
-3. Launch csBooks using the installed `csBooks` command.
+1. Run `sudo snap install csbooks`.
+2. Launch csBooks using the installed `csbooks` command.
 
-> You can also use a software center app for opening the deb file. ;)
+> You can also use software center app for your linux version to install the snap file. ;)
 
 ### MacOS Users
 
-1. Download `csBooks.dmg` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
+1. Download `csBooks_<version>.dmg` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
 2. Make it executable `sudo chmod a+x csBooks.dmg`
 3. Run `./csBooks.dmg`
 
 ## Windows Users
 
-1. Download `csBooks.exe` and wait until the download is finished.
-2. Double click on `csBooks.exe` and follow the installer.
+1. Open your microsoft store app and search for `csBooks`.
+2. Click on `Install` button to install the app.
 
 ## Screenshots  
 <div align="center">
