@@ -40,19 +40,19 @@
 ## Screenshots  
 <div align="center">
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot0.png">
-<h2>Light Mode Library View</h2>
+<h2>Epub Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot3.png">
-<h2>Dark Mode</h2>
+<h2>Light and Dark Mode</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot4.png">
 <h2>PDF File Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot6.png">
-<h2>EPUB File Support</h2>
+<h2>Light and Dark Mode Reader</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot5.png">
-<h2>Search Files With Keywords</h2>
+<h2>Mobi File Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
-<h2>Icon Sizes - Small, Medium and Large</h2>
+<h2>Search Your Books</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot1.png">
-<h2>Search Files With Keywords</h2>
+<h2>List Mode Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
 </div>
 
