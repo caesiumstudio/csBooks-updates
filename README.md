@@ -30,7 +30,7 @@
 
 1. Download `csBooks_<version>.dmg` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
 2. Make it executable `sudo chmod a+x csBooks.dmg`
-3. Run `./csBooks.dmg`
+3. Run `csBooks_<version>.dmg`
 
 ## Windows Users
 
