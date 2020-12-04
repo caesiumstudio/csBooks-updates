@@ -39,6 +39,7 @@
 
 ## Screenshots  
 <div align="center">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot0.png">
 <h2>Light Mode Library View</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot3.png">
 <h2>Dark Mode</h2>
