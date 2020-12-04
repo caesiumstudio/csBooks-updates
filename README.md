@@ -48,8 +48,6 @@
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot6.png">
 <h2>Light and Dark Mode Reader</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot5.png">
-<h2>Mobi File Support</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
 <h2>Search Your Books</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot1.png">
 <h2>List Mode Support</h2>
