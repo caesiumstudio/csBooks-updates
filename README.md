@@ -39,26 +39,21 @@
 
 ## Screenshots
 <div align="center">
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot0.png">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/hero.png">
 <h2>Epub Support</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot3.png">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/epub-viewer.png">
 <h2>Light and Dark Mode</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot4.png">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/dark-mode.png">
+<h2>List view</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/list-view.png">
 <h2>PDF File Support</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot6.png">
-<h2>Light and Dark Mode Reader</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot5.png">
-<h2>Search Your Books</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/pdf-viewer.png">
 <h2>Different Themes for Reading with Comfort</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot9.png">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/themes.png">
 <h2>Integration of Audiobooks from Librivox</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot8.png">
-<h2>Search Files With Keywords</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
-<h2>Icon Sizes - Small, Medium and Large</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot1.png">
-<h2>List Mode Support</h2>
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/audio-books.png">
+<h2>Audio book player</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/audio-book-player.png">
 </div>
 
 ## Feature Suggestions
