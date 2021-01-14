@@ -1,6 +1,6 @@
 # csBooks-updates
 <p align="center" style="width: 200px;">
-<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/icons/png/512x512.png" width="256">
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/icons/512x512.png" width="256">
 </p>
 <p align="center">
   <b>csBooks - A Smart Book Manager</b>
@@ -15,39 +15,40 @@
 
 ## csBooks - A Smart Book Manager
 
-**csBooks** is a smart solution to manage all your pdf files. csBooks will automatically generate thumbnails for your books so that you can easily browse them and read them without problems. csBooks is focused on clean and beautiful interface with excellent user experience. csBooks supports PDF format of books and maintains the read status for them.
+**csBooks** is a smart solution to manage all your PDF, EPUB and MOBI files. csBooks will automatically generate thumbnails for your books so that you can easily browse them and read them without problems. csBooks is focused on clean and beautiful interface with excellent user experience. csBooks supports PDF format of books and maintains the read status for them.
 
 ## Installing
 
 ### Ubuntu Software Center or Debian x86
 
-1. Download `csBooks.deb` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
-2. Run `sudo dpkg --install csBooks.deb` on the downloaded package.
-3. Launch csBooks using the installed `csBooks` command.
+1. Run `sudo snap install csbooks`.
+2. Launch csBooks using the installed `csbooks` command.
 
-> You can also use a software center app for opening the deb file. ;)
+> You can also use software center app for your linux version to install the snap file. ;)
 
 ### MacOS Users
 
-1. Download `csBooks.dmg` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
-2. Make it executable `sudo chmod a+x csBooks.dmg`
-3. Run `./csBooks.dmg`
+1. Download `csBooks_<version>.dmg` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
+2. Make it executable `sudo chmod a+x csBooks_<version>.dmg`
+3. Run `csBooks_<version>.dmg`
 
 ## Windows Users
 
-1. Download `csBooks.exe` and wait until the download is finished.
-2. Double click on `csBooks.exe` and follow the installer.
+1. Open your microsoft store app and search for `csBooks`.
+2. Click on `Install` button to install the app.
 
 ## Screenshots
 <div align="center">
-<h2>Light Mode Library View</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot0.png">
+<h2>Epub Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot3.png">
-<h2>Dark Mode</h2>
+<h2>Light and Dark Mode</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot4.png">
 <h2>PDF File Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot6.png">
-<h2>EPUB File Support</h2>
+<h2>Light and Dark Mode Reader</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot5.png">
+<h2>Search Your Books</h2>
 <h2>Different Themes for Reading with Comfort</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot9.png">
 <h2>Integration of Audiobooks from Librivox</h2>
@@ -56,7 +57,7 @@
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
 <h2>Icon Sizes - Small, Medium and Large</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot1.png">
-<h2>Search Files With Keywords</h2>
+<h2>List Mode Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
 </div>
 
