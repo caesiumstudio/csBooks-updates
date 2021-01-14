@@ -38,7 +38,7 @@
 1. Download `csBooks.exe` and wait until the download is finished.
 2. Double click on `csBooks.exe` and follow the installer.
 
-## Screenshots  
+## Screenshots
 <div align="center">
 <h2>Light Mode Library View</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot3.png">
@@ -48,6 +48,10 @@
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot6.png">
 <h2>EPUB File Support</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot5.png">
+<h2>Different Themes for Reading with Comfort</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot9.png">
+<h2>Integration of Audiobooks from Librivox</h2>
+<img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot8.png">
 <h2>Search Files With Keywords</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot2.png">
 <h2>Icon Sizes - Small, Medium and Large</h2>
