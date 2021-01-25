@@ -17,6 +17,9 @@
 
 **csBooks** is a smart solution to manage all your PDF, EPUB and MOBI files. csBooks will automatically generate thumbnails for your books so that you can easily browse them and read them without problems. csBooks is focused on clean and beautiful interface with excellent user experience. csBooks supports PDF format of books and maintains the read status for them.
 
+## Tech Stack
+**csBooks** is made with love <3, ElectronJS, VueJS, EpubJS, and PdfJS. It is written almost 85% in Typescript for stability and JS for flexibility. 
+
 ## Installing
 
 ### Ubuntu Software Center or Debian x86
