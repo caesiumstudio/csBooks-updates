@@ -1,7 +1,7 @@
-# csBooks - A smart book manager
-<p align="center" style="width: 100%;">
+<div align="center" style="width: 100%;">  # csBooks - A smart book manager</div>
+<div align="center" style="width: 100%;">  
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/icons/512x512.png" width="256">
-</p>
+</div>
 <p align="center">
   <b>csBooks - A Smart Book Manager</b>
 </p>
