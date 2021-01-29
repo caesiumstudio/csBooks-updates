@@ -1,5 +1,5 @@
-# csBooks-updates
-<p align="center" style="width: 200px;">
+# csBooks - A smart book manager
+<p align="center" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/icons/512x512.png" width="256">
 </p>
 <p align="center">
