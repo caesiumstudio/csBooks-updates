@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
-<img src= "https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/hero-image.png"/>
+<img src= "https://caesiumstudio.github.io/csBooks-updates/assets/screenshots/msfg.png"/>
 </div>
 <p align="center" style="width:100%">
   <h3 align="center">csBooks - A Smart Book Manager</h3>
@@ -40,7 +40,7 @@
 ## Screenshots
 
 <div align="center">
-<img src="https://caesiumstudio.github.io/csBooks-updates/assets/screenshots/msfg.jpg">
+<img src="https://caesiumstudio.github.io/csBooks-updates/assets/screenshots/msfg.png">
 <h2>Comic Book format support</h2>
 <img src="https://caesiumstudio.github.io/csBooks-updates/assets/screenshots/1.jpg">
 <h2>Book Store to buy books online</h2>
