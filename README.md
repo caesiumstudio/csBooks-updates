@@ -54,4 +54,4 @@
 
 ## Feature Suggestions
 
-To request any features, please create issue report here - [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/issues).
+To request any features, please create issue report here - [csBooks issues page](https://github.com/caesiumstudio/csBooks-updates/issues).
