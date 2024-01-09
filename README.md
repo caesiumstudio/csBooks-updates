@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
-<img src= "https://caesiumstudio.github.io/csBooks-updates/assets/screenshots/msfg.png"/>
+<img src= "https://caesiumstudio.github.io/csBooks-updates/assets/screenshots/msfg.jpg"/>
 </div>
 
 <div align="center" style="width:100%">
