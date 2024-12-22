@@ -12,6 +12,15 @@
 
 ---
 
+## Mobile App Download
+**csBooks** can now also be installed on your mobile device and you can sync books and reading progress across devices.
+<div>
+<a href="https://caesiumstudio.com/csbooks?device=mobile" target="_blank">
+<div style="background: black; width: 160px; text-align: center; padding: 12px;color: white; border-radius: 4px;"><b>Download for Mobile</b></div></a>
+</div>
+<p>&nbsp;</p>
+
+
 **csBooks** is a smart book management and reading software for Linux, WindowsOS and macOS. It is also a PDF reader, EPUB reader, MOBI reader and DJVU file reader. csBooks automatically generates thumbnails for your books so that you can easily browse them and read them without problems. Here are some features of csBooks -
 
 #### Read your ePUB, MOBI, PDF and DJVU files
@@ -65,14 +74,6 @@ csBooks is the best free book manager and reader software for linux like ubuntu,
 ## Tech stack love story
 
 **csBooks** is made with love :sparkling_heart:, ElectronJS, VueJS, EpubJS, and PdfJS. It is written almost 85% in Typescript for stability and 15% in Javascript for flexibility.
-<p>&nbsp;</p>
-
-## Mobile App Download
-**csBooks** can now also be installed on your mobile device and you can sync books and reading progress across devices.
-<div>
-<a href="https://caesiumstudio.com/csbooks?device=mobile" target="_blank">
-<div style="background: black; width: 160px; text-align: center; padding: 12px;color: white; border-radius: 4px;"><b>Download for Mobile</b></div></a>
-</div>
 <p>&nbsp;</p>
 
 
