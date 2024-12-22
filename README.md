@@ -17,9 +17,23 @@
 
 **csBooks** is a smart solution to manage all your pdf files. csBooks will automatically generate thumbnails for your books so that you can easily browse them and read them without problems. csBooks is focused on clean and beautiful interface with excellent user experience. csBooks supports PDF format of books and maintains the read status for them.
 
-## Installing
+<p>&nbsp;</p>
 
-### Ubuntu Software Center or Debian x86
+----
+
+# Mobile App Download
+**csBooks** can now also be installed on your mobile device and you can sync books and reading progress across devices.
+<div>
+<a href="https://caesiumstudio.com/csbooks?device=mobile" target="_blank">
+<div style="background: black; width: 160px; text-align: center; padding: 12px;color: white; border-radius: 4px;"><b>Download for Mobile</b></div></a>
+</div>
+<p>&nbsp;</p>
+
+----
+
+# Desktop App Download #
+
+## Ubuntu Software Center or Debian x86
 
 1. Download `csBooks.deb` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
 2. Run `sudo dpkg --install csBooks.deb` on the downloaded package.
@@ -27,7 +41,7 @@
 
 > You can also use a software center app for opening the deb file. ;)
 
-### MacOS Users
+## MacOS Users
 
 1. Download `csBooks.dmg` from the [csBooks releases page](https://github.com/caesiumstudio/csBooks-updates/releases).
 2. Make it executable `sudo chmod a+x csBooks.dmg`
@@ -38,7 +52,7 @@
 1. Download `csBooks.exe` and wait until the download is finished.
 2. Double click on `csBooks.exe` and follow the installer.
 
-## Screenshots  
+## Screenshots
 <div align="center">
 <h2>Light Mode Library View</h2>
 <img src="https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/Screenshot3.png">
